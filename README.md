@@ -93,7 +93,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[YourUsername]/[YourRepositoryName].git
+git clone https://github.com/[NAMANRAI1212]/[IMPACT-OF-LIFESTYLE-DUE-TO-LIPID-PROFILES].git
 Install Dependencies:
 
 Ensure you have R Studio (v4.2.1) and the required packages (dplyr, tidyr, ggplot2, cowplot, summarytools, psych) .
